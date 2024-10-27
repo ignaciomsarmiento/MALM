@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Sobre el curso}{2}{0}{1}
+\beamer@sectionintoc {2}{Contenido}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Segmentación y arquetipado de consumidores y clientes}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Sistemas de recomendación}{7}{0}{2}
+\beamer@subsubsectionintoc {2}{2}{1}{Tipos de sistemas de recomendación}{10}{0}{2}
+\beamer@sectionintoc {3}{Break}{20}{0}{3}
