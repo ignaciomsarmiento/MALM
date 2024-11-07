@@ -1,9 +1,14 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,r
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,jupyternotebooks,r
 
-
+02_Cluster_Kmedias/* 
 Old/*
 
+01_Intro_al_Curso_Python/tex/L01_Intro_MLAM (Ignacio Sarmiento's conflicted copy).pdf
+Kmeans_banner.jpg
+Kmeans_banner.webp
+Transformando-tu-negocio-y-la-experiencia-de-los-clientes-con-Machine-Learning-economia-economia-banner_web.jpg
+01_Intro_al_Curso_Python/figs/*
 Deprecated/*
 */Deprecated/*
 
